@@ -1,0 +1,192 @@
+[2026-07-15T11:28:20.868Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:28:20.905Z] DB Session found: true
+[2026-07-15T11:28:20.908Z] Rejected: JWT error: invalid signature
+[2026-07-15T11:30:31.416Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:30:31.460Z] DB Session found: true
+[2026-07-15T11:30:31.463Z] Rejected: JWT error: invalid signature
+[2026-07-15T11:33:00.332Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:33:00.387Z] DB Session found: true
+[2026-07-15T11:33:00.394Z] Rejected: JWT error: invalid signature
+[2026-07-15T11:33:10.152Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:33:10.190Z] DB Session found: true
+[2026-07-15T11:33:10.192Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:33:12.645Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:33:12.683Z] DB Session found: true
+[2026-07-15T11:33:12.685Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:33:12.724Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:33:12.762Z] DB Session found: true
+[2026-07-15T11:33:12.764Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:33:27.806Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:33:27.843Z] DB Session found: true
+[2026-07-15T11:33:27.846Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:33:29.637Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:33:29.673Z] DB Session found: true
+[2026-07-15T11:33:29.675Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:33:29.712Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:33:29.750Z] DB Session found: true
+[2026-07-15T11:33:29.752Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:35:20.845Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:35:20.888Z] DB Session found: true
+[2026-07-15T11:35:20.890Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:35:20.935Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:35:20.977Z] DB Session found: true
+[2026-07-15T11:35:20.978Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:38:15.489Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:38:15.526Z] DB Session found: true
+[2026-07-15T11:38:15.528Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:38:15.573Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:38:15.619Z] DB Session found: true
+[2026-07-15T11:38:15.622Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:39:53.859Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:39:53.894Z] DB Session found: true
+[2026-07-15T11:39:53.895Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:39:53.940Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:39:53.974Z] DB Session found: true
+[2026-07-15T11:39:53.975Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:40:57.152Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:40:57.192Z] DB Session found: true
+[2026-07-15T11:40:57.194Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:40:57.243Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:40:57.295Z] DB Session found: true
+[2026-07-15T11:40:57.297Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:41:23.778Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:41:23.819Z] DB Session found: true
+[2026-07-15T11:41:23.821Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:41:23.873Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:41:23.915Z] DB Session found: true
+[2026-07-15T11:41:23.917Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:41:24.879Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:41:24.927Z] DB Session found: true
+[2026-07-15T11:41:24.930Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:41:24.969Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:41:25.010Z] DB Session found: true
+[2026-07-15T11:41:25.013Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:41:52.539Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:41:52.577Z] DB Session found: true
+[2026-07-15T11:41:52.580Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:41:53.979Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:41:54.015Z] DB Session found: true
+[2026-07-15T11:41:54.017Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:41:54.058Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:41:54.098Z] DB Session found: true
+[2026-07-15T11:41:54.100Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:47:12.806Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:47:12.841Z] DB Session found: true
+[2026-07-15T11:47:12.843Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:48:14.720Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:48:14.754Z] DB Session found: true
+[2026-07-15T11:48:14.757Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:48:14.797Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:48:14.834Z] DB Session found: true
+[2026-07-15T11:48:14.836Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:52:49.644Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:52:49.686Z] DB Session found: true
+[2026-07-15T11:52:49.688Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:52:49.726Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:52:49.759Z] DB Session found: true
+[2026-07-15T11:52:49.761Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:53:04.215Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:53:04.251Z] DB Session found: true
+[2026-07-15T11:53:04.254Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:53:04.297Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:53:04.337Z] DB Session found: true
+[2026-07-15T11:53:04.340Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:53:08.361Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:53:08.396Z] DB Session found: true
+[2026-07-15T11:53:08.398Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:53:08.436Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:53:08.472Z] DB Session found: true
+[2026-07-15T11:53:08.475Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:59:20.403Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:59:20.439Z] DB Session found: true
+[2026-07-15T11:59:20.440Z] JWT Verified. Team: Team Alpha
+[2026-07-15T11:59:20.482Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T11:59:20.517Z] DB Session found: true
+[2026-07-15T11:59:20.519Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:03:07.441Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:03:07.476Z] DB Session found: true
+[2026-07-15T12:03:07.479Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:03:07.523Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:03:07.556Z] DB Session found: true
+[2026-07-15T12:03:07.558Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:05:30.365Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:05:30.400Z] DB Session found: true
+[2026-07-15T12:05:30.402Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:05:30.439Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:05:30.477Z] DB Session found: true
+[2026-07-15T12:05:30.479Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:05:52.192Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:05:52.231Z] DB Session found: true
+[2026-07-15T12:05:52.233Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:05:52.278Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:05:52.313Z] DB Session found: true
+[2026-07-15T12:05:52.315Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:06:23.118Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:06:23.152Z] DB Session found: true
+[2026-07-15T12:06:23.154Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:06:25.395Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:06:25.430Z] DB Session found: true
+[2026-07-15T12:06:25.432Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:06:25.472Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:06:25.509Z] DB Session found: true
+[2026-07-15T12:06:25.512Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:07:37.803Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:07:37.836Z] DB Session found: true
+[2026-07-15T12:07:37.837Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:07:58.448Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:07:58.486Z] DB Session found: true
+[2026-07-15T12:07:58.488Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:07:58.525Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:07:58.561Z] DB Session found: true
+[2026-07-15T12:07:58.563Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:08:15.023Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:08:15.061Z] DB Session found: true
+[2026-07-15T12:08:15.064Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:08:15.104Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:08:15.140Z] DB Session found: true
+[2026-07-15T12:08:15.142Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:08:29.787Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:08:29.823Z] DB Session found: true
+[2026-07-15T12:08:29.826Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:08:29.865Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:08:29.907Z] DB Session found: true
+[2026-07-15T12:08:29.910Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:08:38.416Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:08:38.455Z] DB Session found: true
+[2026-07-15T12:08:38.458Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:08:38.496Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:08:38.534Z] DB Session found: true
+[2026-07-15T12:08:38.536Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:18:18.365Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:18:18.404Z] DB Session found: true
+[2026-07-15T12:18:18.407Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:18:19.974Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:18:20.011Z] DB Session found: true
+[2026-07-15T12:18:20.014Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:18:20.059Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:18:20.096Z] DB Session found: true
+[2026-07-15T12:18:20.098Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:18:55.925Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:18:55.961Z] DB Session found: true
+[2026-07-15T12:18:55.964Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:18:57.515Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:18:57.551Z] DB Session found: true
+[2026-07-15T12:18:57.553Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:18:57.596Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:18:57.632Z] DB Session found: true
+[2026-07-15T12:18:57.634Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:19:29.511Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:19:29.546Z] DB Session found: true
+[2026-07-15T12:19:29.549Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:19:29.587Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:19:29.623Z] DB Session found: true
+[2026-07-15T12:19:29.625Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:20:08.079Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:20:08.113Z] DB Session found: true
+[2026-07-15T12:20:08.116Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:20:13.512Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:20:13.549Z] DB Session found: true
+[2026-07-15T12:20:13.554Z] JWT Verified. Team: Team Alpha
+[2026-07-15T12:20:13.593Z] authHeader present: true, token: eyJhbGciOiJIUzI
+[2026-07-15T12:20:13.627Z] DB Session found: true
+[2026-07-15T12:20:13.630Z] JWT Verified. Team: Team Alpha

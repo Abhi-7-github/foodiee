@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 180" role="img" aria-label="Innovate Kare 2.0">
+  <defs>
+    <pattern id="checker" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect width="18" height="18" fill="#ffffff"/>
+      <rect width="9" height="9" fill="#d1d5db"/>
+      <rect x="9" y="9" width="9" height="9" fill="#d1d5db"/>
+      <rect x="9" width="9" height="9" fill="#6b7280"/>
+      <rect y="9" width="9" height="9" fill="#6b7280"/>
+    </pattern>
+  </defs>
+
+  <!-- Top line: INNOVATE -->
+  <g font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-weight="900" font-size="92" letter-spacing="3">
+    <text x="10" y="86" fill="#0b0b0b">INNOVATE</text>
+    <!-- Pink dot inside the 'O' (approx) -->
+    <circle cx="238" cy="55" r="22" fill="#FF2D87"/>
+    <!-- Make last E pop -->
+    <text x="550" y="86" fill="#FF2D87">E</text>
+  </g>
+
+  <!-- Bottom line: [checker] KARE 2.0 -->
+  <rect x="10" y="108" width="250" height="54" rx="10" fill="url(#checker)" stroke="#e5e7eb"/>
+
+  <g font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-weight="900" font-size="92" letter-spacing="3">
+    <text x="280" y="170" fill="#0b0b0b">KAR</text>
+    <text x="515" y="170" fill="#FF2D87">E</text>
+    <text x="590" y="170" fill="#0b0b0b">2.0</text>
+  </g>
+</svg>

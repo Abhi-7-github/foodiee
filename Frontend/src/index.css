@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+html, body, button, input, select, textarea {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+}

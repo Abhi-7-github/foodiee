@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "teamName": "Team Alpha"
+  },
+  {
+    "id": 2,
+    "teamName": "Team Beta"
+  },
+  {
+    "id": 3,
+    "teamName": "Team Gamma"
+  },
+  {
+    "id": 4,
+    "teamName": "Team Delta"
+  }
+]
