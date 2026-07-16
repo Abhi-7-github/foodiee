@@ -10,7 +10,7 @@ const Order = require("../models/Order");
 const router = express.Router();
 
 /* =========================================================
-   ENVIRONMENT VARIABLES
+   ENVIRONMENT VARIABLES // are gone
 ========================================================= */
 
 const JWT_SECRET = process.env.JWT_SECRET;
