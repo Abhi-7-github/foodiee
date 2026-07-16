@@ -10,7 +10,7 @@ dotenv.config({
   path: path.resolve(__dirname, "../.env")
 });
 
-const TeamSession = require("../models/TeamSession");
+const TeamSession = require("../Models/TeamSession");
 
 const router = express.Router();
 

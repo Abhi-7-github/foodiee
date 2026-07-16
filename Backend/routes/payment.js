@@ -2,8 +2,8 @@ const express = require("express");
 const jwt = require("jsonwebtoken");
 const multer = require("multer");
 const cloudinary = require("../config/cloudinary");
-const PaymentConfig = require("../models/PaymentConfig");
-const TeamSession = require("../models/TeamSession");
+const PaymentConfig = require("../Models/PaymentConfig");
+const TeamSession = require("../Models/TeamSession");
 
 const router = express.Router();
 const JWT_SECRET = process.env.JWT_SECRET || "foodiee_secret_key_123456";

@@ -4,8 +4,8 @@ const multer = require("multer");
 const mongoose = require("mongoose");
 
 const cloudinary = require("../config/cloudinary");
-const FoodItem = require("../models/FoodItem");
-const Order = require("../models/Order");
+const FoodItem = require("../Models/FoodItem");
+const Order = require("../Models/Order");
 
 const router = express.Router();
 

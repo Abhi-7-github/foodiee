@@ -2,8 +2,8 @@ const express = require("express");
 const jwt = require("jsonwebtoken");
 const fs = require("fs");
 const path = require("path");
-const TeamSession = require("../models/TeamSession");
-const Order = require("../models/Order");
+const TeamSession = require("../Models/TeamSession");
+const Order = require("../Models/Order");
 
 const router = express.Router();
 const getSecret = () => process.env.JWT_SECRET || "foodiee_secret_key_123456";
